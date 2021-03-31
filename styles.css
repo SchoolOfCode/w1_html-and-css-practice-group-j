@@ -1,7 +1,14 @@
-header{
+header {
   width: 100vw;
-  height: 80px;
+  text-align: center;
+  
 }
+
+img {
+  text-align: center;
+}
+
 h1{
   text-align: center;
 }
+
